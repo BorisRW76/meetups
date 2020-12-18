@@ -1,0 +1,15 @@
+Purpose
+-------
+Share common knowledge about performance drivers for internet facing applications and common ways to monitor them. 
+
+
+Abstract
+--------
+- Review of main performance drivers from end user device to application platform
+- Details of performance impact of each driver
+- Main ways to mitigate their impact
+- Common ways to monitor performance / user experience (method / pros and cons)
+
+Format
+------
+20 to 25 minutes. 
